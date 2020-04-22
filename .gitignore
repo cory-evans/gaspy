@@ -1,0 +1,6 @@
+*
+!.gitignore
+!gaspy.py
+!*.md
+!requirements.txt
+!example-config.ini
